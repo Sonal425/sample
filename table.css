@@ -3,5 +3,9 @@ table.t{
         border-spacing:30px 50px;
 	background-color:white;
      }
-
+table.t{
+	border-collapse:collapse;
+        border-spacing:30px 50px;
+	background-color:white;
+     }
 
